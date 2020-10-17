@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:makeup_app/app/models/product_model.dart';
-import 'package:makeup_app/api.dart';
+import 'package:makeup_app/app/services/api.dart';
 
 void main() {
   runApp(new MaterialApp(
