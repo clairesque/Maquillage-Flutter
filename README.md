@@ -1,4 +1,16 @@
-# maquillage-flutter
-A search-based Flutter mobile application that involves integration with a REST API. The app aims to serve as a platform for consumers that want to find organic, vegan and halal products in one place.
+# makeup_app
 
-Under development as of October 2020.
+A new Flutter application.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
