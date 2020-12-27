@@ -1,4 +1,4 @@
-import 'package:makeup_app/app/services/auth.dart';
+import 'package:makeup_app/services/auth.dart';
 import 'package:flutter/material.dart';
 
 class SignIn extends StatefulWidget {

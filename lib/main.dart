@@ -1,11 +1,11 @@
 import 'dart:io';
-import 'package:makeup_app/app/services/auth.dart';
-import 'app_theme.dart';
+import 'package:makeup_app/services/auth.dart';
+import 'package:makeup_app/screens/theme/design_course_app_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'app/screens/wrapper.dart';
+import 'screens/wrapper.dart';
 import 'package:provider/provider.dart';
-import 'package:makeup_app/app/models/user.dart';
+import 'package:makeup_app/models/user.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           primarySwatch: Colors.blue,
-          textTheme: AppTheme.textTheme,
+          textTheme: DesignCourseAppTheme.textTheme,
           platform: TargetPlatform.android,
         ),
         //home: DesignCourseHomeScreen(),

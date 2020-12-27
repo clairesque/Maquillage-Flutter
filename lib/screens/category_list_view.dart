@@ -1,6 +1,6 @@
-import 'design_course_app_theme.dart';
+import 'theme/design_course_app_theme.dart';
 import '../models/category.dart';
-import '../../main.dart';
+import '../main.dart';
 import 'package:flutter/material.dart';
 
 class CategoryListView extends StatefulWidget {

@@ -1,4 +1,4 @@
-import 'package:makeup_app/app/models/user.dart';
+import 'package:makeup_app/models/user.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
 class AuthService {
