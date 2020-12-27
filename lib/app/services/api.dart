@@ -11,7 +11,6 @@ class Api {
     if (200 == response.statusCode) {
       final List<ProductModel> productModel =
           productModelFromJson(response.body);
-      print(productModel);
       return productModel;
     } else {
       return List<ProductModel>();
