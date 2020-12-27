@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "277560016973",
+    "project_id": "maquillage-228c5",
+    "storage_bucket": "maquillage-228c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277560016973:android:70e85245029020e8a4dc04",
+        "android_client_info": {
+          "package_name": "com.maquillage.makeup_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277560016973-cbr9b9avjqb8nv6htuclvcdfkhsiu2ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC79dcMgppqvK4CrUvvWdLK53qR0esXC-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277560016973-cbr9b9avjqb8nv6htuclvcdfkhsiu2ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
