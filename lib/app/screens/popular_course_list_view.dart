@@ -39,8 +39,13 @@ class _PopularCourseListViewState extends State<PopularCourseListView>
         future: popularCourseList,
         builder: (context, snapshot) {
           if (!snapshot.hasData) {
-            return const SizedBox();
-          } else {
+        return Center(
+              child: CircularProgressIndicator(
+            valueColor: AlwaysStoppedAnimation(Colors.blue),
+            
+          ), );          
+          } 
+          else {
             List<ProductModel> products = snapshot.data ?? [];
             return GridView(
               padding: const EdgeInsets.all(8),
