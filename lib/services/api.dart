@@ -1,5 +1,5 @@
 import 'package:http/http.dart' as http;
-import 'package:makeup_app/app/models/product_model.dart';
+import 'package:makeup_app/models/product_model.dart';
 
 class Api {
   static const url = "http://makeup-api.herokuapp.com/api/v1/products.json";

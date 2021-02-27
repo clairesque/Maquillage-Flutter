@@ -34,6 +34,10 @@ dependencies:
   firebase_auth: ^0.14.0+5
   cloud_firestore: ^0.12.9+4
   provider: ^3.1.0
+<<<<<<< HEAD
+=======
+  flutter_spinkit: "^4.1.2"
+>>>>>>> d487d450c39298c94d18bbf0812b16a1856845a6
 
 
 dev_dependencies:
@@ -85,11 +89,14 @@ flutter:
         - asset: assets/fonts/Roboto-Regular.ttf
         - asset: assets/fonts/Roboto-Medium.ttf
           weight: 400
+<<<<<<< HEAD
     - family: Poppins
       fonts:
         - asset: assets/fonts/Poppins-SemiBold.ttf          
           weight: 600
       
+=======
+>>>>>>> d487d450c39298c94d18bbf0812b16a1856845a6
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-assets/fonts/#from-packages
