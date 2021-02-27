@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:makeup_app/app/screens/onboarding2.dart';
+import 'package:makeup_app/screens/onboarding2.dart';
 
 class Onboarding3 extends StatelessWidget {
   @override

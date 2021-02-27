@@ -1,9 +1,10 @@
 import 'design_course_app_theme.dart';
 import '../models/category.dart';
-import '../../main.dart';
+import 'package:makeup_app/app_theme.dart';
+import '../main.dart';
 import 'package:flutter/material.dart';
-import 'package:makeup_app/app/models/product_model.dart';
-import 'package:makeup_app/app/services/api.dart';
+import 'package:makeup_app/models/product_model.dart';
+import 'package:makeup_app/services/api.dart';
 import 'course_info_screen.dart';
 
 class PopularCourseListView extends StatefulWidget {

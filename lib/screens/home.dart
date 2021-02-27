@@ -1,10 +1,9 @@
 import 'category_list_view.dart';
-import 'course_info_screen.dart';
 import 'popular_course_list_view.dart';
-import '../../main.dart';
+import '../main.dart';
 import 'package:flutter/material.dart';
 import 'design_course_app_theme.dart';
-import 'package:makeup_app/app/services/auth.dart';
+import 'package:makeup_app/services/auth.dart';
 
 class Home extends StatefulWidget {
   @override

@@ -1,7 +1,7 @@
-import 'package:makeup_app/app/models/user.dart';
-import 'package:makeup_app/app/screens/authenticate/authenticate.dart';
-import 'package:makeup_app/app/screens/splash_screen.dart';
-import 'package:makeup_app/app/screens/home.dart';
+import 'package:makeup_app/models/user.dart';
+import 'package:makeup_app/screens/authenticate/authenticate.dart';
+import 'package:makeup_app/screens/splash_screen.dart';
+import 'package:makeup_app/screens/home.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
-import 'package:makeup_app/app/screens/onboarding1.dart';
+import 'package:makeup_app/screens/onboarding1.dart';
 
 class Splash extends StatelessWidget {
   @override
